@@ -1,0 +1,373 @@
+@font-face {
+    font-family: "MeltedMonster";
+    src: url(meltedmonster.ttf);
+}
+
+
+
+
+body {
+    background-image: url('69.webp');
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    background-position: center;
+    background-color: #000000;
+    margin: 0px 0px;
+    padding:0;
+    margin: 0;
+    overflow-x:hidden;
+    display: table;
+    justify-content: center;
+  
+
+      }
+
+    h1 {
+        color: orange;
+        font-size: 20.5vw;
+        font-family: MeltedMonster;
+        text-align: center;
+        margin-top: 4rem;
+        min-width:360px;
+        max-width:240rem;
+        justify-content: center;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+h2 {
+    font-size: 4rem;
+}
+
+p {
+    font-size: 1.53333333rem;
+}
+
+
+  .book {
+      width: 16.6666667rem;
+      height: 20rem;
+      padding-left: 4rem;
+  }
+  .lock {
+    width: 8rem;
+    height: 8rem;
+    margin-top: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+  .dot {
+    height: 13.3333333rem;
+    width: 13.3333333rem;
+    line-height: 13.3333333rem;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #000000;
+    text-align: center;
+    font-size: 3.33333333rem;
+    
+  }
+
+  .buy {
+    text-align: left;
+    box-sizing: border-box;
+    width:6.6666667rem; height:3.33333333rem; float:left;
+    padding-left: 6.6666667rem;
+
+  }
+
+  .sell {
+      box-sizing: border-box;
+      text-align: right;
+      width:6.6666667rem; height:3.33333333rem; float:right;
+      padding-right: 9.33333333rem;
+  }
+
+  h5 {
+      font-size: 1.66666667rem;
+  }
+
+footer {
+    width: auto;
+    padding-top: 1.66666667rem;
+    margin-top: 4.66666667rem;
+    font-size: 1rem;
+    color: orange;
+    text-align: center;
+    background-color: black;
+    font-family: MeltedMonster;
+    border: solid black;
+    position: relative;
+    float: left;
+    width:66.6666667rem;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+   
+    
+    
+}
+
+.twitter {
+    padding-right: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+    
+
+}
+
+.telegram {
+    padding-right: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+    
+
+}
+
+
+.cmc {
+    padding-left: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+    
+
+}
+
+.cgc {
+    padding-left: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+    
+
+}
+
+.insta {
+    
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+    
+
+}
+
+.ytb {
+    padding-left: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+
+}
+
+.poo {
+    padding-left: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+}
+
+.dxt {
+    padding-left: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+
+}
+
+.mdm {
+    padding-left: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+
+}
+
+.tiktok {
+    padding-left: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+
+}
+
+a { 
+    text-decoration: none;
+}
+
+li {
+    font-size: 1.33333333rem;
+}
+
+.coin {
+    padding-left: 1.33333333rem;
+    padding-top: 0.66666667rem;
+    height: 2rem;
+    width: 2rem;
+
+}
+
+title {
+    width: 66.6666667rem;
+   
+}
+
+.selltop {
+    margin-bottom: 1170rem;
+}
+
+.fees {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+h6 {
+    font-size:1.2rem;
+}
+
+
+
+.conborder {
+    font-family: MeltedMonster;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+    border: 0.2rem solid gray;
+    border-radius: 25%;
+    background: rgba(0, 0, 0, .4);
+    max-width:66.6666667rem;
+    min-width:360px;
+    height:15rem;
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+
+.buyborder {
+
+    font-family: MeltedMonster;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+    border: 0.2rem solid gray;
+    border-radius: 15%;
+    background: rgba(0, 0, 0, .4);
+    max-width:66.6666667rem;
+    min-width:360px;
+    height:40rem;
+    margin:6.6666667rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+}
+
+.spookyborder {
+    font-family: MeltedMonster;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+    border: 0.2rem solid gray;
+    border-radius: 5%;
+    background: rgba(0, 0, 0, .4);
+    max-width:66.6666667rem;
+    min-width:360px;
+    height:66rem;
+    
+    margin:6.6666667rem;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.whiteborder {
+    font-family: MeltedMonster;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+    border: 0.2rem solid gray;
+    border-radius: 15%;
+    background: rgba(0, 0, 0, .4);
+    min-width:360px;
+    max-width: 66.6666667rem;
+    height:47rem;
+    margin:6.6666667rem;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.feesborder {
+    font-family: MeltedMonster;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+    border: 0.2rem solid gray;
+    border-radius: 15%;
+    background: rgba(0, 0, 0, .4);
+    max-width:66.6666667rem;
+    min-width:360px;
+    height:26.6666667rem;
+    margin: 6.6666667rem;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.liqborder {
+    font-family: MeltedMonster;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+    border: 0.2rem solid gray;
+    border-radius: 15%;
+    background: rgba(0, 0, 0, .4);
+    max-width:66.6666667rem;
+    min-width:360px;
+    height:26.6666667rem;
+    margin: 6.6666667rem;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.tokborder {
+    font-family: MeltedMonster;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+    border: 0.2rem solid gray;
+    border-radius: 15%;
+    background: rgba(0, 0, 0, .4);
+    min-width:360px;
+    max-width: 66.6666667rem;
+    height:47rem;
+    margin:6.6666667rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aboutborder {
+    font-family: MeltedMonster;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+    border: 0.2rem solid gray;
+    border-radius: 15%;
+    background: rgba(0, 0, 0, .4);
+    min-width:360px;
+    max-width: 66.6666667rem;
+    height:40rem;
+    margin:6.6666667rem;
+    margin-left: auto;
+    margin-right: auto;
+}
